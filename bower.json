@@ -1,0 +1,17 @@
+{
+  "name": "mean_friends",
+  "description": "CodingDojo full mean project",
+  "main": "server.js",
+  "authors": [
+    "Jason Wilcox <jason.wilcox@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
